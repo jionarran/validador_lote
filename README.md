@@ -1,4 +1,3 @@
 # my-codes
 
-Here have my codes during de life.
-
+Validacao de preco de um lote de leilao
