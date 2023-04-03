@@ -1,3 +1,3 @@
-# my-codes
+# Validador
 
-Validacao de preco de um lote de leilao
+Script criado para  analisar carga de conteiner do site do leilao da receita
